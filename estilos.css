@@ -5,14 +5,34 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(252, 248, 245);
+    color: rgb(250, 249, 249);
 }
 .principal{
    display: flex;
      
 }
 body{
-    background-image: url("blessd.jpg");
-    
+   background-image: url(wes.jpg);
+   
+}
+.titulo{
+font-size: 70px;
+color: rgb(250, 4, 4);
+text-align: center;
+font-family: 'Times New Roman', Times, serif;
+}
+.imaguen1{
+    height: 193px;
+    width: 300px;
+    background-image: url(circuito\ eletrico.png);
+    background-repeat: no-repeat;
+    float: left;
+}    
+.imaguen2{
+height: 293px; 
+width: 500px;
+background-image: url(circuito2.jpg);
+background-repeat: no-repeat;
+float: left;
 
 }
