@@ -5,14 +5,15 @@
     font-size: 50px;
     padding-top: 140px;
     text-align: justify;
-    color: rgb(250, 249, 249);
+    color: rgb(0, 0, 0);
 }
 .principal{
    display: flex;
      
 }
 body{
-   background-image: url(wes.jpg);
+   background-image: url(imaguenazul.jpg);
+   
    
 }
 .titulo{
@@ -22,17 +23,121 @@ text-align: center;
 font-family: 'Times New Roman', Times, serif;
 }
 .imaguen1{
-    height: 193px;
-    width: 300px;
-    background-image: url(circuito\ eletrico.png);
-    background-repeat: no-repeat;
-    float: left;
-}    
-.imaguen2{
-height: 293px; 
-width: 500px;
-background-image: url(circuito2.jpg);
-background-repeat: no-repeat;
+height: 440px;
+width: 600px;
+background-image: url(imaguen1.png);
 float: left;
+background-repeat: no-repeat;
+}
+.imaguen2{
+    height: 200px;
+    width: 293px;
+background-image: url(imaguen2.png);
+    float: left;
+    background-repeat: no-repeat
+}
+.imaguen3{
+    height: 500px;
+    width: 400px;
+background-image: url(imaguen3.jpg);
+float: right;
+background-repeat: no-repeat;
+}
+.imaguen4{
+height: 600px;
+width: 900px;
+background-image: url(imaguen4.jpg);
+float: left;
+background-repeat: no-repeat;
+}
+.imaguen5{
+height: 500px;
+width: 500px;
+background-image: url(imaguen5.jpg);
+float: left;
+background-repeat: no-repeat;
+}
+.imaguen6{
 
+
+    height: 500px;
+    width: 500px;
+    background-image: url(imaguen6.jpg);
+    float: right;
+    background-repeat: no-repeat;
+}
+.imaguen7{
+    height: 793px;
+    width: 993px;
+    background-image: url(imaguen7.jpg);
+float: left;
+    background-repeat: no-repeat;
+}
+.imaguen8{
+    height: 400px;
+    width: 600px;
+background-image: url(imaguen8.jpg);
+float: left;
+background-repeat: no-repeat;
+}
+.imaguen9{
+    height: 593px;
+    width: 593px;
+background-image: url(imaguen9.png);
+float: left;
+background-repeat: no-repeat;
+}
+.imaguen10{
+height: 400px;
+width: 493px;
+background-image: url(imaguen10.jpg);
+float:left ;
+background-repeat: no-repeat;
+
+}
+.imaguen11{
+    height: 300px;
+    width: 300px;
+    background-image:url(imaguen11.jpg);
+    float: right;
+background-repeat: no-repeat;
+}
+.imaguen12{
+    height: 393px;
+    width: 515px;
+    background-image:url(imaguen12.png);
+    float: none;
+background-repeat: no-repeat;
+}
+
+.imaguen13{
+    height: 600px;
+    width: 1193px;
+    background-image:url(imaguen13.jpg);
+    float: none;
+background-repeat: no-repeat;
+
+}
+.imaguen14{
+    height: 300px;
+    width: 300px;
+    background-image:url(imaguen14.webp);
+    float: none;
+background-repeat: no-repeat;
+
+}
+.imaguen15{
+    height: 693px;
+    width: 1193px;
+    background-image:url(imaguen15.jpg);
+    float: none;
+background-repeat: no-repeat;
+
+}
+.imaguen16{
+    height: 520px;
+    width: 600px;
+    background-image:url(imaguen16);
+    float: none;
+background-repeat: no-repeat;
 }
